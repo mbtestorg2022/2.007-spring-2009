@@ -161,11 +161,126 @@ Everything you have in the lab that is not your robot should be put in your bin.
 Draft of the "Seeding Card"
 ---------------------------
 
-| &nbsp; | SCORES | COMMENTS | INITIALS |
-| --- | --- | --- | --- |
-| Seeding run 1 | &nbsp; |
-| Seeding run 2 | &nbsp; |
-| Seeding run 3 | &nbsp; |
-| Impound |  {{< br >}}{{< br >}} Done? {{< br >}}{{< br >}} (Y/N) {{< br >}}{{< br >}}  | Type of machine: Can crusher, can collector, bale stacker, rope puller, other | &nbsp; |
-| In lab competition? |  {{< br >}}{{< br >}} Result {{< br >}}{{< br >}} (W/L) {{< br >}}{{< br >}}  | &nbsp; |
-| Want to make a video? | (Y/N) | What will you show? |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+SCORES
+{{< thclose >}}
+{{< thopen >}}
+COMMENTS
+{{< thclose >}}
+{{< thopen >}}
+INITIALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seeding run 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seeding run 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seeding run 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Impound
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Done?
+
+(Y/N)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Type of machine: Can crusher, can collector, bale stacker, rope puller, other
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In lab competition?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Result
+
+(W/L)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Want to make a video?
+{{< tdclose >}}
+{{< tdopen >}}
+(Y/N)
+{{< tdclose >}}
+{{< tdopen >}}
+What will you show?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

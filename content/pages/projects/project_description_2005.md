@@ -37,9 +37,68 @@ Simmons hall.
 
 During the contest, eight control boxes will be in constant use with two spares in case of a failure. Each table will have four control boxes, two of each color associated with that table's starting zones. Each color will have a different control frequency assigned to it, so two control boxes will have the same frequency. The first table will have blue and red starting zones, control boxes, and podiums. The second table will have green and yellow of the same items.
 
-| Table One | Table TWO |
-| --- | --- |
-|  {{< br >}}{{< br >}} Blue "A" {{< br >}}{{< br >}} Blue "B" {{< br >}}{{< br >}} X1 Mhz. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Red "A" {{< br >}}{{< br >}} Red "B" {{< br >}}{{< br >}} X2 Mhz. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Green "A" {{< br >}}{{< br >}} Green "B" {{< br >}}{{< br >}} X3 Mhz. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Yellow "A" {{< br >}}{{< br >}} Yellow B" {{< br >}}{{< br >}} X4 Mhz. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Table One
+{{< thclose >}}
+{{< thopen >}}
+Table TWO
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Blue "A"
+
+Blue "B"
+
+X1 Mhz.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Red "A"
+
+Red "B"
+
+X2 Mhz.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Green "A"
+
+Green "B"
+
+X3 Mhz.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Yellow "A"
+
+Yellow B"
+
+X4 Mhz.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

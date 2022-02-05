@@ -53,16 +53,120 @@ Cans, crushed cans, and trash cubes are located on each side of the contest tabl
 
 The locations of the cans, crushed cans, and trash cubes are as follows. Y-coordinates are measured from the inside front edge of the table boundary. X-coordinates are measured outward from the centerline. (The table sides are mirror images.) All locations are of the centroid of the scoring object, measured in inches, and have a tolerance of ±2".
 
-| SCORING ELEMENT | X | Y |
-| --- | --- | --- |
-| Trash cube | 42 | 24 |
-| Trash cube | 12 | 36 |
-| Trash cube | 36 | 54 |
-| Trash cube | 15 | 90 |
-| Can | 30 | 24 |
-| Can | 42 | 63 |
-| Crushed can | 15 | 9 |
-| Crushed can | 12 | 75 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SCORING ELEMENT
+{{< thclose >}}
+{{< thopen >}}
+X
+{{< thclose >}}
+{{< thopen >}}
+Y
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Trash cube
+{{< tdclose >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Trash cube
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Trash cube
+{{< tdclose >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+54
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Trash cube
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+90
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Can
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Can
+{{< tdclose >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+63
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Crushed can
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Crushed can
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+75
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

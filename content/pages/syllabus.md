@@ -16,11 +16,48 @@ Grading
 
 Your grade in 2.007 will be determined based on your performance in lab activities, exams, and homework as described in the table below:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Lab section (design notebook, etc.) | 50% |
-| Exams (2 exams at 15% each) | 30% |
-| Homework (4 assignments at 5% each) | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab section (design notebook, etc.)
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams (2 exams at 15% each)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework (4 assignments at 5% each)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The lab section grade is closely related to the design of your robot and its documentation in your lab notebook and via oral reports you make in the lab. The homework and exams are closely related to the lecture sessions.
 
@@ -41,14 +78,75 @@ In engineering design, it is helpful to give careful considerations to objective
 
 **Table 1**. Bloom's Taxonomy of Educational Objectives
 
-| EDUCATIONAL OBJECTIVE | ASSOCIATED ACTION VERBS |
-| --- | --- |
-| 6\. Evaluation | Judge, critique, justify |
-| 5\. Synthesis | Design, invent, propose |
-| 4\. Analysis | Predict, model, derive |
-| 3\. Application | Calculate, solve |
-| 2\. Comprehension | Explain, paraphrase |
-| 1\. Knowledge | List, recite 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EDUCATIONAL OBJECTIVE
+{{< thclose >}}
+{{< thopen >}}
+ASSOCIATED ACTION VERBS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6\. Evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+Judge, critique, justify
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5\. Synthesis
+{{< tdclose >}}
+{{< tdopen >}}
+Design, invent, propose
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4\. Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Predict, model, derive
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3\. Application
+{{< tdclose >}}
+{{< tdopen >}}
+Calculate, solve
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2\. Comprehension
+{{< tdclose >}}
+{{< tdopen >}}
+Explain, paraphrase
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1\. Knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+List, recite
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 After taking this subject (2.007 - Design and Manufacturing I) students should be able to:
 

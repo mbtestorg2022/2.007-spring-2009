@@ -28,22 +28,189 @@ Notes on Lithium Polymer Batteries ([PDF]({{< baseurl >}}/resources/mit2_007s09_
 Milestones
 ----------
 
-| WEEK # | LAB ACTIVITIES | MILESTONES |
-| --- | --- | --- |
-| 1 | Explore kit & contest ([PDF]({{< baseurl >}}/resources/mit2_007s09_f01)) | Kit and contest exploration ([PDF]({{< baseurl >}}/resources/mit2_007s09_m01)) |
-| 2 | Build a simple car & preliminary strategy ([PDF]({{< baseurl >}}/resources/mit2_007s09_f02)) | Develop strategy and work toward final car design ([PDF]({{< baseurl >}}/resources/mit2_007s09_m02)) |
-| 3 | Design concept ([PDF]({{< baseurl >}}/resources/mit2_007s09_f03)) | Develop concept and finalize car design ([PDF]({{< baseurl >}}/resources/mit2_007s09_m03)) |
-| 4 | Design of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f04)) | Design MCM and build final car ([PDF]({{< baseurl >}}/resources/mit2_007s09_m04)) |
-| 5 | Fabrication of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f05)) | Fabricate MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m05)) |
-| 6 | Complete MCM fabrication ([PDF]({{< baseurl >}}/resources/mit2_007s09_m06)) |
-| 7 | Demonstration of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f06)) | Demonstration of MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m07)) |
-| 8 | Integration of design ([PDF]({{< baseurl >}}/resources/mit2_007s09_f07)) | Completion plan ([PDF]({{< baseurl >}}/resources/mit2_007s09_m08)) |
-| 9 | Demonstration of integrated machine ([PDF]({{< baseurl >}}/resources/mit2_007s09_f08)) | &nbsp; |
-| 10 | Design iteration ([PDF]({{< baseurl >}}/resources/mit2_007s09_f09)) | &nbsp; |
-| 11 | Fabrication of improved machine ([PDF]({{< baseurl >}}/resources/mit2_007s09_f10)) | &nbsp; |
-| 12 | Demonstration of improved machine | &nbsp; |
-| 13 | Final refinements | &nbsp; |
-| 14 | Debriefs with section ([PDF]({{< baseurl >}}/resources/mit2_007s09_f11)) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+LAB ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+MILESTONES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Explore kit & contest ([PDF]({{< baseurl >}}/resources/mit2_007s09_f01))
+{{< tdclose >}}
+{{< tdopen >}}
+Kit and contest exploration ([PDF]({{< baseurl >}}/resources/mit2_007s09_m01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Build a simple car & preliminary strategy ([PDF]({{< baseurl >}}/resources/mit2_007s09_f02))
+{{< tdclose >}}
+{{< tdopen >}}
+Develop strategy and work toward final car design ([PDF]({{< baseurl >}}/resources/mit2_007s09_m02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Design concept ([PDF]({{< baseurl >}}/resources/mit2_007s09_f03))
+{{< tdclose >}}
+{{< tdopen >}}
+Develop concept and finalize car design ([PDF]({{< baseurl >}}/resources/mit2_007s09_m03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Design of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f04))
+{{< tdclose >}}
+{{< tdopen >}}
+Design MCM and build final car ([PDF]({{< baseurl >}}/resources/mit2_007s09_m04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Fabrication of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f05))
+{{< tdclose >}}
+{{< tdopen >}}
+Fabricate MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Complete MCM fabrication ([PDF]({{< baseurl >}}/resources/mit2_007s09_m06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Demonstration of most critical module ([PDF]({{< baseurl >}}/resources/mit2_007s09_f06))
+{{< tdclose >}}
+{{< tdopen >}}
+Demonstration of MCM ([PDF]({{< baseurl >}}/resources/mit2_007s09_m07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Integration of design ([PDF]({{< baseurl >}}/resources/mit2_007s09_f07))
+{{< tdclose >}}
+{{< tdopen >}}
+Completion plan ([PDF]({{< baseurl >}}/resources/mit2_007s09_m08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Demonstration of integrated machine ([PDF]({{< baseurl >}}/resources/mit2_007s09_f08))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Design iteration ([PDF]({{< baseurl >}}/resources/mit2_007s09_f09))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Fabrication of improved machine ([PDF]({{< baseurl >}}/resources/mit2_007s09_f10))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Demonstration of improved machine
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Final refinements
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Debriefs with section ([PDF]({{< baseurl >}}/resources/mit2_007s09_f11))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Past Projects
 -------------

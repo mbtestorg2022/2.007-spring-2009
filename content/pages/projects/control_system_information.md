@@ -128,9 +128,68 @@ Contest Plan{{< anchor "contest" >}}{{< /anchor >}}
 
 The contest will use eight control boxes and two spares. Each table will have four control boxes. Those four control boxes will be set to only two different frequencies. Two control boxes will share each of the four frequencies. As in previous years, the tables will have color coded starting regions. One table will be blue and orange. The other will be red and yellow. Each color starting zone will be assigned a frequency. The table below summarizes this.
 
-| TABLE ONE | TABLE TWO |
-| --- | --- |
-|  {{< br >}}{{< br >}} Blue "A" {{< br >}}{{< br >}} Blue "B" {{< br >}}{{< br >}} X1 Mhz. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Orange "A" {{< br >}}{{< br >}} Orange "B" {{< br >}}{{< br >}} X2 Mhz. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Red "A" {{< br >}}{{< br >}} Red "B" {{< br >}}{{< br >}} X3 Mhz. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Yellow "A" {{< br >}}{{< br >}} Yellow B" {{< br >}}{{< br >}} X4 Mhz. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TABLE ONE
+{{< thclose >}}
+{{< thopen >}}
+TABLE TWO
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Blue "A"
+
+Blue "B"
+
+X1 Mhz.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Orange "A"
+
+Orange "B"
+
+X2 Mhz.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Red "A"
+
+Red "B"
+
+X3 Mhz.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Yellow "A"
+
+Yellow B"
+
+X4 Mhz.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
