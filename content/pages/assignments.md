@@ -25,7 +25,7 @@ FILES
 Design process and machine elements ([PDF]({{< baseurl >}}/resources/mit2_007s09_hw01))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_007s09_sol_hw01))
+([PDF]({{< baseurl >}}/resources/mit2_007s09_sol_hw01))
 {{< tdclose >}}
 {{< tdopen >}}
  

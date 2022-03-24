@@ -35,7 +35,7 @@ Motor plug.
 
 Battery plug.
 
-The above figures indicate how to wire both the Amp 14 pin connector (to connect to your motors) and the 4 pin connector (to connect to your batteries). Please obtain the pins and lead wire ([PDF]({{< baseurl >}}/resources/mit2_007s09_kp_cir14pinamp)) from the cabinet. We recommend that you print out the debug sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_007s09_controlsystdebug)) and bring it to lab. Pay particular attention to how the batteries are wired! This wiring layout is not done arbitrarily - if the battery plug is wired incorrectly, either the control box will not turn on, or worse, the batteries will short within the plug, which will damage the control box and possibly cause your batteries to explode!
+The above figures indicate how to wire both the Amp 14 pin connector (to connect to your motors) and the 4 pin connector (to connect to your batteries). Please obtain the pins and lead wire ([PDF]({{< baseurl >}}/resources/mit2_007s09_kp_cir14pinamp)) from the cabinet. We recommend that you print out the debug sheet ([PDF]({{< baseurl >}}/resources/mit2_007s09_controlsystdebug)) and bring it to lab. Pay particular attention to how the batteries are wired! This wiring layout is not done arbitrarily - if the battery plug is wired incorrectly, either the control box will not turn on, or worse, the batteries will short within the plug, which will damage the control box and possibly cause your batteries to explode!
 
 Long motor and battery wires have the following two problems. Try to keep them short for your own benefit.
 
@@ -181,9 +181,9 @@ Suggested mounting hardware.
 ### Process Plans to Create the Mount
 
 *   Shear two piecies of the 1/8" thick adhesively backed magnet. The larger piece is 1.5" by 4." The smaller piece is 1.5" by 2."
-*   Shear out a piece of sheet metal according to this drawing. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_007s09_metal_bracket))
+*   Shear out a piece of sheet metal according to this drawing. ([PDF]({{< baseurl >}}/resources/mit2_007s09_metal_bracket))
 *   Bend the sheet metal. Make sure you bend the metal in the correct direction (see picture).
-*   Use the adhesive on the back of the magnets to assemble the mount according to this drawing. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_007s09_controlbox_mount))
+*   Use the adhesive on the back of the magnets to assemble the mount according to this drawing. ([PDF]({{< baseurl >}}/resources/mit2_007s09_controlbox_mount))
 *   If you are creating an attacking robot, you may need to add a velcro strap or an additional feature to prevent control box detachment.
 
 This is by no means the only way to mount the control box. It is just a way. We do not guarantee the mount. You will have to make sure it is suitable for your particular machine. It is also likely the mount will need to be modified to better suit your machine. Please feel free to do so and try to integrate it with another sheet metal structure. To attach the mount to your machine, we recommend double sided tape or screws. When using screws, make sure they do not interfere with the mating of the control box and the magnets.

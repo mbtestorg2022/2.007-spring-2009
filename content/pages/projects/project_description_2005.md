@@ -26,7 +26,7 @@ There are three major elements to the table:
 
 Foam blocks.
 
-1.  Simmons Hall - The hall structure is made up of horizontal and vertical bins stacked as shown in the figure. The bottom row of horizontal bins are open on the front and back sides. The top three rows of horizontal bins are open only in the front. The two long vertical bins on the sides of the structure are open only on the top. Each horizontal bin can hold only one block at a time, while the vertical bin can hold three blocks at a time. Detailed dimensions available in the drawings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_007s09_table_drawing)).
+1.  Simmons Hall - The hall structure is made up of horizontal and vertical bins stacked as shown in the figure. The bottom row of horizontal bins are open on the front and back sides. The top three rows of horizontal bins are open only in the front. The two long vertical bins on the sides of the structure are open only on the top. Each horizontal bin can hold only one block at a time, while the vertical bin can hold three blocks at a time. Detailed dimensions available in the drawings ([PDF]({{< baseurl >}}/resources/mit2_007s09_table_drawing)).
 
 ![Simmons hall.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/front.jpg)
 

@@ -20,7 +20,7 @@ This section will lead you through how to use the 2.007 control box on your mach
 
 ### Handy Handouts
 
-Quick Debug Sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_007s09_controlsystdebug))
+Quick Debug Sheet ([PDF]({{< baseurl >}}/resources/mit2_007s09_controlsystdebug))
 
 Control System Summary Presentation ([PDF]({{< baseurl >}}/resources/mit2_007s09_controlsystemlec)) (Courtesy of Hongshen Ma. Used with permission.)
 

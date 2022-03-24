@@ -15,6 +15,6 @@ How-To and Specs
 ----------------
 
 [HS-311 Specification](https://www.servocity.com/hs-311-servo/)  
-4-TH 4-Channel FM Radio Control System Manual (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.towerhobbies.com/products/pdf/towj41.pdf))  
+4-TH 4-Channel FM Radio Control System Manual ( [PDF](http://www.towerhobbies.com/products/pdf/towj41.pdf))  
 Burns, Scott A. "[Modifying a Hitec HS-311 Servo Motor for Continuous Rotation by Radio Control](http://www.ge.uiuc.edu/s-burns/HS311hack/)."  
 "\[How to Glue\] [This to That](http://www.thistothat.com/)."
