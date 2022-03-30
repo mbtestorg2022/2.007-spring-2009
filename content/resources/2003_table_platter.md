@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: 2003_table_platter.jpg
 uid: 0940179b-fc67-727d-1410-86065d20bd68

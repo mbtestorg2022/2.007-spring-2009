@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: Box back
 uid: cd710893-63d3-20b7-4707-141f7517a6e7

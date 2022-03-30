@@ -17,7 +17,7 @@ Score = Scoring Multiplier \* \[Scoring Bin Total + Marked Side - Penalties\]
 
 1.  Scoring Bin Total - The sum of the total points scored by placing colored foam blocks into the various scoring bins. The points are assigned to the contestant by color (e.g. red player gets points for any red block placed in a bin). The point distribution is as shown in the figure.
 
-![Scoring Total.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/scoring.jpg)
+{{< resource "b840427b-532e-1be5-a8da-fe0027b484f3" >}}
 
 Scoring Total.
 
@@ -25,7 +25,7 @@ Scoring Total.
 3.  Scoring Multiplier - A scoring multiplier will be awarded for placing your colored blocks in a continuous segment. The segment can be horizontal, vertical, or diagonal, see examples ([PDF]({{< baseurl >}}/resources/mit2_007s09_multipliers)). The initial multiplier will be 1 and the highest multiplier achieved will be used in the final score calculation. 3 Block Segment = 2x Multiplier 4 Block Segment = 3x Multiplier
 4.  Penalties - A 50 point penalty will be assessed if any part of a contestant’s machine crosses the center line before placing 2 blocks in the bottom row or 1 block in a higher row.
 
-![View of table from top.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/top.jpg)
+{{< resource "7e644b86-5454-79bf-ffb2-7d29310a588c" >}}
 
 View of table from top.
 

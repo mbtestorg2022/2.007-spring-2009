@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: scoring.jpg
 uid: b840427b-532e-1be5-a8da-fe0027b484f3

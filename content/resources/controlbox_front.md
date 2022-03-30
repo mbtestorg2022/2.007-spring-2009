@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: controlbox_front.jpg
 uid: bb188c4e-d0ba-0d19-49c7-7f1f03350116

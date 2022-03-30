@@ -9,7 +9,7 @@ uid: ab27deef-bc13-9c67-9dd9-c4210f9ca824
   
  
 
-![A CAD model of the competition table, showing the starting boxes, skyscrapers, tunnel between areas, and plant.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/tablemodel.jpg)
+{{< resource "e90ad962-9c2f-829c-a0ee-95443e65535e" >}}
 
   
  

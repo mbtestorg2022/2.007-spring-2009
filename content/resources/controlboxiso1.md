@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: controlboxiso1.jpg
 uid: cf7ff3c1-cfb3-4802-890c-73b6a3911d73

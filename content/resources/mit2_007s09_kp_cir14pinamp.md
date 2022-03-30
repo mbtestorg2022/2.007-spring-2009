@@ -4,6 +4,7 @@ description: This resource contains information about the pins and lead wire fro
   the cabinet.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-007-design-and-manufacturing-i-spring-2009/793cc5d7352ca3dc750becd9ebb49cb6_MIT2_007s09_kp_cir14pinamp.pdf
 file_type: application/pdf
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Document
 title: MIT2_007s09_kp_cir14pinamp.pdf
 uid: 793cc5d7-352c-a3dc-750b-ecd9ebb49cb6

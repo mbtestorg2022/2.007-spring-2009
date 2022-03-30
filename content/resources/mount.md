@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: mount.jpg
 uid: 92a04617-0b19-8fc4-e0eb-1fe58b3f94ee

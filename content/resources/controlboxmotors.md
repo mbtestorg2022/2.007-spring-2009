@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: controlboxmotors.jpg
 uid: 266890fd-7941-7933-05d4-6d8f9b861e16

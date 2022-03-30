@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: insulatedmotorconnectionsweb.jpg
 uid: 8dff17c4-36bf-8d28-cb32-16f630a49871

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: chp_table.jpg
 uid: 99799bfd-4d47-b79f-420e-aa9f69f1943a

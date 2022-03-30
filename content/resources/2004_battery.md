@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: 2004_battery.jpg
 uid: d9873e5d-a7b0-d0b1-6c45-759bd6f17f71

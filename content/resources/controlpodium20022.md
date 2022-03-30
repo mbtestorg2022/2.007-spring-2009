@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: controlpodium20022.jpg
 uid: 33f5e7a5-0a27-8653-fda3-03135dd5af7f

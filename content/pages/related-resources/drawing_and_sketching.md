@@ -44,7 +44,7 @@ This is just an introduction. Don't worry about understanding every detail right
 
 We hope you like the object in Figure 1, because you'll be seeing a lot of it. Before we get started on any technical drawings, let's get a good look at this strange block from several angles.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_01.jpg)
+{{< resource "ead50d95-5529-f2c8-475a-641f9ffdd9eb" >}}
 
 Figure 1 - A Machined Block.
 
@@ -53,7 +53,7 @@ Figure 1 - A Machined Block.
 
 The representation of the object in figure 2 is called an isometric drawing. This is one of a family of three-dimensional views called pictorial drawings. In an isometric drawing, the object's vertical lines are drawn vertically, and the horizontal lines in the width and depth planes are shown at 30 degrees to the horizontal. When drawn under these guidelines, the lines parallel to these three axes are at their true (scale) lengths. Lines that are not parallel to these axes will not be of their true length.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_02.jpg)
+{{< resource "39ecf719-1d7c-379e-ed52-4fc2cca1f83f" >}}
 
 Figure 2 - An Isometric Drawing.
 
@@ -64,7 +64,7 @@ Any engineering drawing should show everything: a complete understanding of the 
 
 Imagine that you have an object suspended by transparent threads inside a glass box, as in figure 3.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_03.jpg)
+{{< resource "e1a44cad-30eb-4710-64b2-f422a5a03fd0" >}}
 
 Figure 3 - The block suspended in a glass box.
 
@@ -73,7 +73,7 @@ Then draw the object on each of three faces as seen from that direction. Unfold 
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_04.jpg)
+{{< resource "4999ee03-059a-f9fa-f13f-538c244ddcf0" >}}
 
 Figure 4 - The creation of an orthographic multiview drawing.
 
@@ -81,7 +81,7 @@ Figure 4 - The creation of an orthographic multiview drawing.
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_05.jpg)
+{{< resource "bbb1e5ab-001d-898c-2f8a-43980b643277" >}}
 
 Figure 5 - A multiview drawing and its explanation.
 
@@ -90,7 +90,7 @@ Figure 5 - A multiview drawing and its explanation.
 
 Which views should one choose for a multiview drawing? The views that reveal every detail about the object. Three views are not always necessary; we need only as many views as are required to describe the object fully. For example, some objects need only two views, while others need four. The circular object in figure 6 requires only two views.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_06.jpg)
+{{< resource "f99716be-45b1-2e50-dd39-2038c58f68ae" >}}
 
 Figure 6 - An object needing only two orthogonal views.
 
@@ -100,7 +100,7 @@ Figure 6 - An object needing only two orthogonal views.
 {{< anchor "Dimensioning" >}}{{< /anchor >}}Dimensioning
 --------------------------------------------------------
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_07.jpg)
+{{< resource "dea0d783-3ea7-4b15-b191-4b9072c58358" >}}
 
 Figure 7 - An isometric view with dimensions.
 
@@ -116,7 +116,7 @@ Repeatedly measuring from one point to another will lead to inaccuracies. It is 
 
 There are many times when the interior details of an object cannot be seen from the outside (figure 8).
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_08.jpg)
+{{< resource "aa7a88c9-885f-307f-c174-9e290aa47258" >}}
 
 Figure 8 - An isometric drawing that does not show all details.
 
@@ -127,7 +127,7 @@ Imagine slicing the object in the middle (figure 9):
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_09.jpg)
+{{< resource "56758965-9feb-7f2c-99bf-f06653b15c5b" >}}
 
 Figure 9 - "Sectioning" an object.
 
@@ -135,13 +135,13 @@ Figure 9 - "Sectioning" an object.
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_10.jpg)
+{{< resource "debbc026-fb9b-f43f-14e0-b00852716224" >}}
 
 Figure 10 - Sectioning the object in figure 8.
 
 Take away the front half (figure 10) and what you have is a full section view (figure 11).
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_11.jpg)
+{{< resource "0e71f247-d0de-1394-0933-f77ae28515b7" >}}
 
 Figure 11 - Sectioned isometric and orthogonal views.
 
@@ -155,7 +155,7 @@ To prepare a drawing, one can use manual drafting instruments (figure 12) or com
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_12.jpg)
+{{< resource "982e99ab-a764-2dc9-4fe3-e2967456f418" >}}
 
 Figure 12 - Drawing Tools.
 
@@ -169,7 +169,7 @@ We can also show isometric views of the pillow-block being taken apart or "disas
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_13.jpg)
+{{< resource "9193ab71-5c36-b493-38af-1c27a87a5e80" >}}
 
 Figure 13 - Pillow-block (Freehand sketch).
 
@@ -177,7 +177,7 @@ Figure 13 - Pillow-block (Freehand sketch).
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_14.jpg)
+{{< resource "ded8ed33-b0b4-bdde-f2bd-52755d9b752b" >}}
 
 Figure 14 - Disassembled Pillow-block.
 
@@ -191,7 +191,7 @@ Imagine a plane that cuts vertically through the center of the pillow block as s
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_15.jpg)
+{{< resource "a026e2fc-bc86-506b-0f05-00970c0b85f4" >}}
 
 Figure 15 - Pillow Block.
 
@@ -199,7 +199,7 @@ Figure 15 - Pillow Block.
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_16.jpg)
+{{< resource "fc0a9eed-0ce7-ac7e-c43c-b2e69647e9ab" >}}
 
 Figure 16 - Pillow Block.
 
@@ -208,7 +208,7 @@ Figure 16 - Pillow Block.
 
 This is how the remaining rear section would look. Diagonal lines (cross-hatches) show regions where materials have been cut by the cutting plane.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_17.jpg)
+{{< resource "473b372c-4f8d-ca5b-d11c-ca1ebb1a1061" >}}
 
 Figure 17 - Section "A-A".
 
@@ -222,7 +222,7 @@ The top "outside" view of the bearing is shown in figure 18. It is an orthogonal
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_18.jpg)
+{{< resource "8d64bdd4-50c5-3f97-4d51-86b63f637cf0" >}}
 
 Figure 18 - The top "outside" view of the bearing.
 
@@ -231,7 +231,7 @@ Figure 18 - The top "outside" view of the bearing.
 
 A half-section is a view of an object showing one-half of the view in section, as in figure 19 and 20.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_19.jpg)
+{{< resource "456adb1e-dfa2-f55c-f93f-075c8c8b01d2" >}}
 
 Figure 19 - Full and sectioned isometric views.
 
@@ -239,7 +239,7 @@ Figure 19 - Full and sectioned isometric views.
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_20.jpg)
+{{< resource "ec9c4052-d47f-9e1a-db5c-957a115ae9bd" >}}
 
 Figure 20 - Front view and half section.
 
@@ -250,7 +250,7 @@ The diagonal lines on the section drawing are used to indicate the area that has
 
 A second, rarer, use of cross-hatching is to indicate the material of the object. One form of cross-hatching may be used for cast iron, another for bronze, and so forth. More usually, the type of material is indicated elsewhere on the drawing, making the use of different types of cross-hatching unnecessary.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_21.jpg)
+{{< resource "256e9d9e-6cc5-2498-8b8c-a38cf13e8dd8" >}}
 
 Figure 21 - Half section without hidden lines.
 
@@ -264,7 +264,7 @@ Usually hidden (dotted) lines are not used on the cross-section unless they are 
 
 The cross-section on the right of figure 22 is technically correct. However, the convention in a drawing is to show the view on the left as the preferred method for sectioning this type of object.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_22.jpg)
+{{< resource "ef73c81d-e1d4-735b-2dd2-e53580e47602" >}}
 
 Figure 22 - Cross section.
 
@@ -286,7 +286,7 @@ The **dimension line** is a thin line, broken in the middle to allow the placeme
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_23.jpg)
+{{< resource "ec85f5c3-4929-f5a7-a7c7-27035cca5a67" >}}
 
 Figure 23 - Dimensioned Drawing.
 
@@ -300,7 +300,7 @@ A leader is a thin line used to connect a dimension with a particular area (figu
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_24.jpg)
+{{< resource "09083d83-10af-d905-57f5-bc2f70aceb68" >}}
 
 Figure 24 - Example drawing with a leader.
 
@@ -314,7 +314,7 @@ The dimensions should be placed on the face that describes the feature most clea
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_25.jpg)
+{{< resource "3ee36705-e64d-47d5-56aa-c3da7a17428d" >}}
 
 Figure 25 - Example of appropriate and inappropriate dimensioning.
 
@@ -323,13 +323,13 @@ In order to get the feel of what dimensioning is all about, we can start with a 
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_26.jpg)
+{{< resource "a032a145-e802-0661-7701-0f892c82f7ff" >}}
 
 Figure 26 - Simple Object.
 
 We have to make some choices when we dimension a block with a notch or cutout (figure 27). It is usually best to dimension from a common line or surface. This can be called the datum line of surface. This eliminates the addition of measurement or machining inaccuracies that would come from "chain" or "series" dimensioning. Notice how the dimensions originate on the datum surfaces. We chose one datum surface in figure 27, and another in figure 28. As long as we are consistent, it makes no difference. (We are just showing the top view).
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_27.jpg)
+{{< resource "8777fee7-73bf-f3fe-5b26-7a35e2271f12" >}}
 
 Figure 27 - Surface datum example.
 
@@ -337,7 +337,7 @@ Figure 27 - Surface datum example.
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_28.jpg)
+{{< resource "cc12f68c-f17e-ab4a-20a6-95bd54b38957" >}}
 
 Figure 28 - Surface datum example.
 
@@ -346,7 +346,7 @@ In figure 29 we have shown a hole that we have chosen to dimension on the left s
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_29.jpg)
+{{< resource "eb0cbcb3-c3c6-cb88-bc08-c882ad9629d7" >}}
 
 Figure 29 - Exampled of a dimensioned hole.
 
@@ -355,13 +355,13 @@ When the left side of the block is "radiuses" as in figure 30, we break our rule
   
  
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_30.jpg)
+{{< resource "c9037d80-d751-8ee9-873e-1a85e2bbb583" >}}
 
 Figure 30 - Example of a directly dimensioned hole.
 
 Somewhere on the paper, usually the bottom, there should be placed information on what measuring system is being used (e.g. inches and millimeters) and also the scale of the drawing.
 
-![](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/fig_31.jpg)
+{{< resource "eaa695f6-e07c-c501-5624-c127696a2568" >}}
 
 Figure 31 - Example of a directly dimensioned hole.
 

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 resourcetype: Image
 title: tablemodel_thumb.jpg
 uid: 6ee74d96-6317-1a41-2401-36aad6c9496a

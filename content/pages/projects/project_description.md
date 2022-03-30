@@ -8,7 +8,7 @@ uid: 6aa844fd-3d11-403a-cf2c-14f52202a5a0
 
 All images courtesy of Alex Slocum.
 
-![The Two Tables...One Robot to Rule them All...](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/2tables.jpg)
+{{< resource "d9d405a7-72d6-6fca-06e2-7cc98fb83c9e" >}}
 
 One Robot to Rule them All.....
 
@@ -16,7 +16,7 @@ One Robot to Rule them All.....
   
  
 
-![2003 table overview.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/2003_table.jpg)
+{{< resource "0e1b8cf5-7f5a-e2aa-5802-c937b754863b" >}}
 
 2003 table overview.
 
@@ -38,7 +38,7 @@ On the edge of gap between the tables is a small metal bar.
 
 Note: The stack of pucks will be placed halfway between the edge of the platter and the edge of the chasm.
 
-![Labelled table view.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/2003_table_labels.jpg)
+{{< resource "b0ddc9f9-fd1b-7c15-c605-9f353a80fe6a" >}}
 
 Labelled table view.
 
@@ -57,7 +57,7 @@ Score = (mass + 100 grams) x (cumulative rotation of platter + 1 radian)
 
 All mass is measured in grams. Platter motion is measured in radians.
 
-![Rotating platter close-up view.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/2003_table_platter.jpg)
+{{< resource "0940179b-fc67-727d-1410-86065d20bd68" >}}
 
 Rotating platter close-up view.
 
@@ -65,7 +65,7 @@ Rotating platter close-up view.
   
  
 
-![Half table close-up view.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/2003_table_half.jpg)
+{{< resource "f7109fc7-a086-1379-e8d6-ca0c49447ad2" >}}
 
 Half table close-up view.
 
@@ -74,7 +74,7 @@ Critical Table Dimensions
 
 Note: These dimensions are approximate and may change. The final dimensions are as determined on the physical tables in the Pappalardo Lab. Solid models of the table are available here: both SolidWorks® and Pro/Engineer® ([ZIP - 1.8MB]({{< baseurl >}}/resources/2003_table-1)) (The ZIP file contains: 10 .sldprt files and 3 .sldasm files.)
 
-![Side view of table with measurements.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/2003_table_side.jpg)
+{{< resource "eb11c5ad-318d-5675-d5d1-ff8274f8fc77" >}}
 
 Side view of table with measurements.
 
@@ -82,7 +82,7 @@ Side view of table with measurements.
   
  
 
-![Top view of table with measurements.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/2003_table_above.jpg)
+{{< resource "1a3d837a-4924-53d0-2291-8a4b668079c0" >}}
 
 Top view of table with measurements.
 

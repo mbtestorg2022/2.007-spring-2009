@@ -61,9 +61,9 @@ SW2008 ([SLDPRT]({{< baseurl >}}/resources/chamber08)),
 SW2007 ([SLDPRT]({{< baseurl >}}/resources/chamber07))
 
 Gears:  
-12-tooth ([DXF](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/assignments/12tooth.dxf)),  
-24-tooth ([DXF](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/assignments/24tooth.dxf)),  
-48-tooth([DXF](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/assignments/48tooth.dxf))
+12-tooth ({{% resource_link "2c000d5b-ad22-6431-8d55-9528d4a8d5b4" "DXF" %}}),  
+24-tooth ({{% resource_link "94fe3a99-0765-8caf-5075-698045248f8a" "DXF" %}}),  
+48-tooth({{% resource_link "9c2268ff-bea3-fa96-124e-055fee247d2f" "DXF" %}})
 
 
 {{< tdclose >}}

@@ -6,7 +6,7 @@ uid: 84dfecf8-a23f-522f-3d67-1d5c5133752f
 
 Your mission: Clean up planet earth and re-establish plant life.
 
-![A photo of the 2009 competition table, with a row of skyscrapers dividing it into an area for each robot containing cans and bales of trash to be crushed and stacked in the appropriate target area.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/chp_table.jpg)
+{{< resource "99799bfd-4d47-b79f-420e-aa9f69f1943a" >}}
 
 The challenge for this year's 2.007 robots is to clean up the environment. (Image by Dan Frey.)
 

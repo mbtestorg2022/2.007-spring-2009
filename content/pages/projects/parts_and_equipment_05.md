@@ -28,6 +28,6 @@ Control System Summary Presentation ([PDF]({{< baseurl >}}/resources/mit2_007s09
 
 The picture below is a schematic overview of the whole system. A battery supplies power to the control box. The control box distributes that power to the four actuators based on commands it receives from the transmitter. The transmitter receives commands from joysticks/throttles via the microprocessor. For the details of each sub-system, please consult the appropriate sub-section of [Using the Control System]({{< baseurl >}}/pages/projects/using_the_control_system).
 
-![System schematic.](/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/projects/system_schematic.jpg)
+{{< resource "5bfe2e52-cac6-d2ca-090f-80721f292778" >}}
 
 System schematic.
